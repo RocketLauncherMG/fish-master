@@ -1,2 +1,8 @@
 /* You can add global styles to this file, and also import other style files */
 @import '~animate.css/animate.css';
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;0,600;0,900;1,200;1,900&display=swap');
+
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
