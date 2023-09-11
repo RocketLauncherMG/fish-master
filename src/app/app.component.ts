@@ -6,5 +6,10 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'fish-master';
+  title = 'Fish Master';
+  subTitle = "A Fish Keepers Guide";
+
+  toggleAdd() {
+    console.log("hello world");
+  }
 }

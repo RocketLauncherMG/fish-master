@@ -1,0 +1,14 @@
+@import '~animate.css/animate.css';
+
+.card {
+    
+    background: rgba(66, 72, 116,.5);
+    animation: bounce; /* referring directly to the animation's @keyframe declaration */
+   animation-duration: 2s; /* don't forget to set a duration! */
+}
+.card-title {
+    color: white;
+}
+.card-text {
+    font-size: 15px;
+}
